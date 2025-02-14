@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fiksikitri</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="Fistachka" repo="fiksikitri"/>
   <readme>
     <ru>2583cb059a5ed3a920081b78e287209cee943abcb6825194a99455be9b0f4c37</ru>
@@ -141,14 +141,14 @@
     <tonalities>1</tonalities>
     <video name="25t.mp4" size="479351" type="video/mp4" volume="0.5">e5981575e9e0757c299d761dd256082a186cc16b1a77bd4f10bf1eeb1813a71d</video>
     <notes>
-      <note number="1" values="48" ticks="66" durationTicks="96" ppq="96" velocity="0.843"/>
-      <note number="2" values="38" ticks="163" durationTicks="45" ppq="96" velocity="0.906"/>
-      <note number="3" values="38" ticks="210" durationTicks="48" ppq="96" velocity="0.866"/>
-      <note number="4" values="28" ticks="258" durationTicks="64" ppq="96" velocity="0.913"/>
-      <note number="5" values="28" ticks="306" durationTicks="48" ppq="96" velocity="0.913"/>
-      <note number="6" values="18" ticks="355" durationTicks="45" ppq="96" velocity="0.913"/>
-      <note number="7" values="18" ticks="401" durationTicks="41" ppq="96" velocity="0.913"/>
-      <note number="8" values="18" ticks="432" durationTicks="72" ppq="96" velocity="0.913"/>
+      <note number="1" values="58" ticks="24" durationTicks="96" ppq="96" velocity="0.843"/>
+      <note number="2" values="188" ticks="121" durationTicks="45" ppq="96" velocity="0.906"/>
+      <note number="3" values="38" ticks="168" durationTicks="48" ppq="96" velocity="0.866"/>
+      <note number="4" values="48" ticks="216" durationTicks="64" ppq="96" velocity="0.913"/>
+      <note number="5" values="58" ticks="264" durationTicks="48" ppq="96" velocity="0.913"/>
+      <note number="6" values="68" ticks="313" durationTicks="45" ppq="96" velocity="0.913"/>
+      <note number="7" values="78" ticks="359" durationTicks="41" ppq="96" velocity="0.913"/>
+      <note number="8" values="188" ticks="390" durationTicks="72" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="10">
