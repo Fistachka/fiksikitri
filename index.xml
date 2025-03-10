@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fiksikitri</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="Fistachka" repo="fiksikitri"/>
   <readme>
-    <ru>2583cb059a5ed3a920081b78e287209cee943abcb6825194a99455be9b0f4c37</ru>
-    <en>c18e85b86b63ed4f6b99beb0aff29e310698ec03a47f0bdbfffb931b6192d9f7</en>
+    <ru>6e897820c42a7c61325b2b0d094ea233a642ab843057bd1fabd52623b55038ab</ru>
+    <en>3af42e1cac16074e6fc377282a9c2d3584860aeb5725189af4a6ae944864c006</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
